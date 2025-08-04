@@ -1,0 +1,1 @@
+def parse_user_input(x): return {'player':'X','line':1.5,'prop_type':'strikeouts','opponent':'Y','sport':'mlb'}
